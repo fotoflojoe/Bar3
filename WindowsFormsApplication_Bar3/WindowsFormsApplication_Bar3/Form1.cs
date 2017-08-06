@@ -15,6 +15,8 @@ namespace WindowsFormsApplication_Bar3
         public Form1()
         {
             InitializeComponent();
+            
+            // Added comment
         }
     }
 }
